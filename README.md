@@ -160,3 +160,4 @@ File paths, model names, and connection settings are set near the top of each sc
 
 - **Sakhil Taneja** ([@tanejasakhil](https://github.com/tanejasakhil))
 - **Kallind Soni** ([@Kallind](https://github.com/Kallind))
+- **Rajarshi Chatterjee**
