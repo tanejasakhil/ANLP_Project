@@ -51,6 +51,8 @@ The Freebase snapshot contains three files:
 - `scores.txt`: a confidence score for each fact.
 - `freebase-links.txt`: mappings from machine IDs to human-readable names and URLs.
 
+> **Note:** All results in this repository were produced on this exact snapshot, `freebase-easy-14-04-14`. Retrieval coverage and downstream scores may differ on other Freebase versions.
+
 ## Results
 
 ### Hop prediction
@@ -158,4 +160,3 @@ File paths, model names, and connection settings are set near the top of each sc
 
 - **Sakhil Taneja** ([@tanejasakhil](https://github.com/tanejasakhil))
 - **Kallind Soni** ([@Kallind](https://github.com/Kallind))
-- **Rajarshi Chatterjee**
